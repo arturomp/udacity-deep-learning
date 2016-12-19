@@ -1,3 +1,5 @@
 notMNIST*
 Dockerfile
 *.DS_Store
+.ipynb_checkpoints*
+text8.zip
