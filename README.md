@@ -1,4 +1,4 @@
-Deep Learning vision and language with TensorFlow
+Deep Learning on vision and language with TensorFlow
 ===========================================================
 
 Udacity course assignments. Code under _Problem N_ in each assignment is mine. (Otherwise, code is from course materials.)
